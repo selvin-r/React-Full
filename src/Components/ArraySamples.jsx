@@ -4,7 +4,8 @@ import React from 'react'
 const ArraySamples = (props) => {
 
     const {items} =props;
-  return (
+  return 
+  (
     <div>ArraySamples
 
         <h1>This is tha Array Of samples</h1>
