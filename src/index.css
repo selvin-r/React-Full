@@ -33,11 +33,12 @@
 .student table th {
     width: 100px;
 } */
-
+/* 
 *{
     box-sizing: border-box;
-}
-
+    background-color: aqua;
+} */
+/* 
 body{
     font-family: "Inter", sans-serif;
 }
@@ -135,4 +136,4 @@ button.primary.outline{
     border-radius: 2px;
     margin: 0 7px 7px 0;
     font-size: 12px;
-}
+} */
